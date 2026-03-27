@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\bin\Debug\net10.0\D11416214_H4-3.exe
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\bin\Debug\net10.0\D11416214_H4-3.deps.json
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\bin\Debug\net10.0\D11416214_H4-3.runtimeconfig.json
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\bin\Debug\net10.0\D11416214_H4-3.dll
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\bin\Debug\net10.0\D11416214_H4-3.pdb
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\D11416214_H4-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\D11416214_H4-3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\D11416214_H4-3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\D11416214_H4-3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\D11416214_H4-3.dll
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\refint\D11416214_H4-3.dll
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\D11416214_H4-3.pdb
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\D11416214_H4-3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\D11416214_H4-3\D11416214_H4-3\D11416214_H4-3\obj\Debug\net10.0\ref\D11416214_H4-3.dll
